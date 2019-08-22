@@ -5,7 +5,7 @@
       "claimId": "OK1^asdasd^PR1",
       "claimType": "PHARMACY",
       "claimNumber": "asdasd",
-      "date": "2019-05-14",
+      "Date": "2019-05-14",
       "billingEndDate": "2019-05-14",
       "claimProcessCompletionCode": "P",
       "claimStatus": "Paid",

@@ -1,1 +1,35 @@
 
+{
+  "claims": [
+    {
+      "claimId": "OK1^asdasd^PR1",
+      "claimType": "PHARMACY",
+      "claimNumber": "asdasd",
+      "fillDate": "2019-05-14",
+      "billingEndDate": "2019-05-14",
+      "claimProcessCompletionCode": "P",
+      "claimStatus": "Paid",
+      "statusDescription": "Paid. The claim's was paid.",
+      "groupNumber": "OS1802",
+      "patient": {
+        "name": {
+          "firstName": "asdasd",
+          "middleName": "",
+          "lastName": "asdasd"
+        }
+      },
+      "adjustmentNumber": "0",
+      "totalBilledAmount": 3.61,
+      "patientShareAmount": "0.0",
+      "provider": {
+        "name": "",
+        "providerNumber": "",
+        "npi": "1881769487"
+      },
+      "drugLabelAbbreviation": "LORAZEPAM    TAB 1MG",
+      "dispenseQuantity": "90.0",
+      "drugSupplyDayCount": "19",
+      "prescriptionNumber": "asdasd"
+    }
+ ]
+}
